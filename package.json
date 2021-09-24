@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@highlightjs/cdn-assets": "^11.2.0",
+    "normalize.css": "^8.0.1",
+    "showdown": "^1.9.1"
+  }
+}
